@@ -1,0 +1,13 @@
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\bin\Debug\DOniciQGame.exe.config
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\bin\Debug\DOniciQGame.exe
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\bin\Debug\DOniciQGame.pdb
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.Design.resources
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.Properties.Resources.resources
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.ControlPanel.resources
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.exe
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.pdb
+C:\Users\danie\Desktop\PROG2370\DOniciQGame\DOniciQGame\obj\Debug\DOniciQGame.Game.resources
